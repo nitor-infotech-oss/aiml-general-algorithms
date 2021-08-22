@@ -2,7 +2,7 @@
 
 
 
--[Apriori Association Rule Learning](https://github.com/nitor-infotech-oss/aiml-general-algorithms/blob/main/Apriori%20Association%20Rule%20Learning.ipynb)
+
 
  
 -[k-Fold Cross Validation](https://github.com/nitor-infotech-oss/aiml-general-algorithms/blob/main/k-Fold%20Cross%20Validation.ipynb)
